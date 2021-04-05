@@ -337,6 +337,6 @@ $ ./dc.sh stop
 
 ## 👀 Author
 
-[isystk](https://github.com/clinks-iseyoshitaka)
+[clinks-iseyoshitaka](https://github.com/clinks-iseyoshitaka)
 
 
