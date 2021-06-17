@@ -239,7 +239,7 @@ http://localhost:8025/
 S3に準拠したダミーのオブジェクトストレージです。
 Dockerを起動後に以下のURLにアクセスすると利用可能です。
 
-http://s3:9000
+http://localhost:9090/
 
 ```bash
 # ローカルのAWS-CLIにアクセスする。
